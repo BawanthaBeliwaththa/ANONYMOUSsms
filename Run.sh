@@ -30,7 +30,7 @@ echo -e "\e[1;31m"
 figlet -f slant Anon-SMS | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"  #red color
 toilet -f mono12 -F border BH | lolcat
-echo -e "\e[4;34mTG Channel ~> @VIP Hackz\e[0m" #underline+red
+echo -e "\e[4;34mTG Group ~> @VIP Hackz\e[0m" #underline+red
 echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32mTelegram: @mrwhitehatbawa" #blue
 echo -e "\e[4;32m\e[0m" #yellow
