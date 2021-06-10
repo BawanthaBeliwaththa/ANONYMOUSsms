@@ -1,12 +1,12 @@
 # ANONYMOUSsms
 Anoymously message anyone !!!
 
-This script is Running on
- -> Termux
- -> Kali Linux
- -> Parrot OS
- -> Android Tamer
- -> Arch Linux
+This script is Running on<br><br>
+ -> Termux<br>
+ -> Kali Linux<br>
+ -> Parrot OS<br>
+ -> Android Tamer<br
+ -> Arch Linux<br>
  
 Tested at
  -> Parrot OS
