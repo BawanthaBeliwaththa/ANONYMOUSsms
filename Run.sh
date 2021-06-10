@@ -18,6 +18,7 @@ apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
 echo This Tool Is Created By Rachel Gardner
+echo This One Is Edited By MrWhiteHatBAWA
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -28,8 +29,8 @@ rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
 figlet -f slant ANONYMOUSsms | lolcat
-echo -e "\e[1;34m Created By \e[1;32m"  #red color
-toilet -f mono12 -F border BH | lolcat
+echo -e "\e[1;34m Edited By \e[1;32m"  #red color
+toilet -f mono12 -F border WHITEHATBAWA | lolcat
 echo -e "\e[4;34mTG Group ~> @VIP Hackz\e[0m" #underline+red
 echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32mTelegram: @mrwhitehatbawa" #blue
