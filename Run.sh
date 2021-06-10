@@ -4,7 +4,7 @@ clear
 echo -e "\e[4;31m MrWhiteHatBAWA !!! \e[0m"
 echo -e "\e[1;32m Presents \e[0m"
 echo -e "\e[1;34m"
-figlet -f slant Anon-SMS
+figlet -f slant ANONYMOUSsms
 termux-open-url "https://t.me/mrwhitehatbawa"
 echo "Press Enter To Launch"
 read a1
@@ -27,7 +27,7 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet -f slant Anon-SMS | lolcat
+figlet -f slant ANONYMOUSsms | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"  #red color
 toilet -f mono12 -F border BH | lolcat
 echo -e "\e[4;34mTG Group ~> @VIP Hackz\e[0m" #underline+red
@@ -37,8 +37,8 @@ echo -e "\e[4;32m\e[0m" #yellow
 echo " "
 echo -e "\e[4;31mRead Instruction Carefully !!! \e[0m" #red
 echo " "
-echo "Enter 1 To  Run Anon-SMS "
-echo "Enter 2 To  Track Anon-SMS "  #white
+echo "Enter 1 To  Run ANONYMOUSsms "
+echo "Enter 2 To  Track ANONYMOUSsms "  #white
 echo "Enter 3 To  Update "
 echo "Enter 4 To  Check Features "
 echo "Enter 5 To  Exit "
@@ -53,7 +53,7 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Track Anon-SMS'> call.xxx
+echo 'Track ANONYMOUSsms'> call.xxx
 python3 send.py track
 rm *.xxx >/dev/null 2>&1
 exit 0
@@ -64,8 +64,8 @@ echo -e "\e[1;34m Requesting Update From Source..."
 echo -e "\e[1;34m Request Attempt Successful.."
 echo -e "\e[1;34m Updating Now..."
 git clone https://github.com/MrWhieHatBAWA/AnonySMS.git
-if [[ -s Anon-SMS/Run.sh ]];then
-cd Anon-SMS
+if [[ -s ANONYMOUSsms/Run.sh ]];then
+cd ANONYMOUSsms
 cp -r -f * .. > temp
 cd ..
 rm -rf  Anon-SMS >> temp
@@ -73,7 +73,7 @@ rm update.pandahackers >> temp
 rm temp
 chmod +x Run.sh
 fi
-echo -e "\e[1;32m Anon-SMS Will Refresh Now..."
+echo -e "\e[1;32m ANONYMOUSsms Will Refresh Now..."
 echo -e "\e[1;32m All The Required Packages Have Been Installed..."
 echo -e "\e[1;34m Press Enter To Refresh..."
 read a6
@@ -82,7 +82,7 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet -f slant Anon-SMS | lolcat
+figlet -f slant ANONYMOUSsms | lolcat
 echo -e "\e[1;34mCreated By \e[1;34m"  #Blue Color
 toilet -f mono12 -F border PH | lolcat
 echo  " "
@@ -112,7 +112,7 @@ elif [ $ch -eq 5 ];then
 clear
 clear
 echo -e "\e[1;33m"
-figlet -f slant Anon-SMS | lolcat
+figlet -f slant ANONYMOUSsms | lolcat
 echo -e "\e[1;34mCreated By \e[1;34m"  #Blue Color
 toilet -f mono12 -F border PH | lolcat
 echo  " "
