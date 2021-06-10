@@ -7,7 +7,7 @@ This script is Running on<br><br>
  -> Kali Linux<br>
  -> Parrot OS<br>
  -> Android Tamer<br
- -> Arch Linux<br>
+ ->-> Arch Linux<br>
  <hr>
  
 Tested at<br>
