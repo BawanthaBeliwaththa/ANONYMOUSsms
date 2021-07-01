@@ -28,3 +28,19 @@ Tested at<br>
  ******WELCOME & THANKS TO EVERYONE WHO HATES ME !!!******
  <br><br>
  <i><u><u>SRI LANKAN WORK</i></u></u>
+ <br>
+ <hr>
+ <br>
+ For Termux
+ <br><p>
+ $ apt update && apt upgrade<br>
+ $ pkg install git<br>
+ $ pkg install python<br>
+ $ git clone https://github.com/MrWhieHatBAWA/ANONYMOUSsms.git<br>
+ $ cd ANONYMOUSsms<br>
+ $ chmod u+x Run.sh<br>
+ $ ./Run.sh<br>
+ <br>
+ <center> OR </center><br>
+ $ bash Run.sh
+ </p>
