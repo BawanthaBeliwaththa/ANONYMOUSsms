@@ -32,7 +32,8 @@ Tested at<br>
  <hr>
  <br>
  For Termux
- <br><p>
+ <br>
+ <p>
  $ apt update && apt upgrade<br>
  $ pkg install git<br>
  $ pkg install python<br>
@@ -41,6 +42,7 @@ Tested at<br>
  $ chmod u+x Run.sh<br>
  $ ./Run.sh<br>
  <br>
- <center> OR </center><br>
+ <center> OR </center>
+ <br>
  $ bash Run.sh
  </p>
