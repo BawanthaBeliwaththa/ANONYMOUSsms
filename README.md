@@ -32,6 +32,7 @@ Tested at<br>
  <hr>
  <br>
  For Termux
+ <hr>
  <br>
  <p>
  $ apt update && apt upgrade<br>
@@ -45,4 +46,5 @@ Tested at<br>
  <center> OR </center>
  <br>
  $ bash Run.sh
+ <br>
  </p>
