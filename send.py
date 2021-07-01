@@ -70,7 +70,7 @@ def Track() :
 def update():
     stuff_to_update = ['send.py', 'Run.sh']
     for fl in stuff_to_update:
-        dat = urllib.request.urlopen("https://raw.githubusercontent.com/in4osecurity/anonsms/master/" + fl).read()
+        dat = urllib.request.urlopen("https://raw.githubusercontent.com/https:/github.com/MrWhieHatBAWA/ANONYMOUSsms" + fl).read()
         file = open(fl, 'wb')
         file.write(dat)
         file.close()
