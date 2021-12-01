@@ -35,6 +35,7 @@ Tested at<br>
  <hr>
  <br>
  <p>
+ ```
  $ apt update && apt upgrade<br>
  $ pkg install git<br>
  $ pkg install python<br>
@@ -42,9 +43,12 @@ Tested at<br>
  $ cd ANONYMOUSsms<br>
  $ chmod u+x Run.sh<br>
  $ ./Run.sh<br>
+ ```
  <br>
  <center> OR </center>
  <br>
+ ```
  $ bash Run.sh
+ ```
  <br>
  </p>
