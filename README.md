@@ -34,7 +34,7 @@ Tested at<br>
  For Termux
  <hr>
  <br>
- <p>
+ 
  ```
  $ apt update && apt upgrade<br>
  $ pkg install git<br>
@@ -51,4 +51,4 @@ Tested at<br>
  $ bash Run.sh
  ```
  <br>
- </p>
+ 
